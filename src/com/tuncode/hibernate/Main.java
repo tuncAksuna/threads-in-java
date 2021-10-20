@@ -1,5 +1,7 @@
 package com.tuncode.hibernate;
 
+import com.tuncode.hibernate.basics.Printer;
+
 public class Main {
 
     public static void main(String[] args) {

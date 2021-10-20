@@ -1,4 +1,4 @@
-package com.tuncode.hibernate;
+package com.tuncode.hibernate.basics;
 
 public class Printer implements Runnable {
 
